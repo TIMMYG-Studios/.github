@@ -1,10 +1,10 @@
-# TIMMYG Studios
+![TIMMYG Studios](https://raw.githubusercontent.com/TIMMYG-Studios/.github/refs/heads/main/profile/dark.png)
 
 Welcome to **TIMMYG Studios**, where we focus on creating immersive and realistic gaming experiences. I'm **Tommy Johnston**, the primary developer behind this studio. Our current project, **Tornado Emergency**, aims to bring the thrill of storm chasing to life.
 
-## About Tornado Emergency
+## Current Projects
 
-![Tornado Emergency Banner](https://tornadoemergency.net/assets/tornado-by-car.jpg)
+<img src="https://tornadoemergency.net/_build/assets/logo-Bw6p6NP1.png" data-canonical-src="https://tornadoemergency.net/_build/assets/logo-Bw6p6NP1.png"  height="200" />
 
 **Tornado Emergency** puts you in the shoes of a storm chaser, navigating through the unpredictable and dangerous world of severe weather. Your mission? To gather crucial data by deploying probes and piloting a high-tech intercept vehicle.
 
@@ -16,8 +16,8 @@ Welcome to **TIMMYG Studios**, where we focus on creating immersive and realisti
 - **Immersive Experience**: Feel the adrenaline rush of chasing tornadoes, capturing breathtaking footage, and collecting valuable data.
 
 ## Stay Updated
-
-![Gameplay Teaser](https://tornadoemergency.net/assets/thirdpersonpov.jpg)
+### Watch Teaser Trailer
+[![Watch the video](https://api.timmygstudios.com/v1/storage/buckets/images/files/dev09242024header/view?project=tore)](https://www.youtube.com/watch?v=T9mZdGRVc-c)
 
 Follow our progress on **Tornado Emergency** and other upcoming projects:
 
